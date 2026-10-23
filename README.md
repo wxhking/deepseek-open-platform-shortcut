@@ -10,7 +10,8 @@
 - 点击新菜单项打开 `https://platform.deepseek.com/`。
 - 点击侧栏左上角 DeepSeek 标志也打开 `https://platform.deepseek.com/`。
 - 保留“下载手机应用”等其他账户菜单项的原有功能。
-- 使用左下方案设计的 PNG 插件图标（16、32、48、128 px）；源图在 `assets/icon-source.png`。
+- <img width="252" height="256" alt="image" src="https://github.com/user-attachments/assets/62644d44-bfaf-4f0e-ad75-b4945cf81cd0" />
+
 
 ## 安装
 
@@ -43,7 +44,8 @@ A lightweight Chrome Manifest V3 extension that adds shortcuts to the DeepSeek O
 - The new menu item opens `https://platform.deepseek.com/`.
 - The DeepSeek mark at the top of the sidebar also opens the platform.
 - Other account menu items retain their existing behavior.
-- Includes PNG extension icons at 16, 32, 48, and 128 px. The generated source artwork is in `assets/icon-source.png`.
+- <img width="252" height="256" alt="image" src="https://github.com/user-attachments/assets/a271c700-f068-41fe-9ef1-2788315da37d" />
+
 
 ### Install
 
