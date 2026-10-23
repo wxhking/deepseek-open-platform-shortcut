@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "DeepSeek 开放平台快捷入口",
+  "version": "1.0.7",
+  "description": "在 DeepSeek 侧栏菜单中添加开放平台入口，并将 DeepSeek 标志链接到开放平台。",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://chat.deepseek.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png",
+    "32": "icons/icon32.png",
+    "16": "icons/icon16.png"
+  }
+}
